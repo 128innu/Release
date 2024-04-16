@@ -1,4 +1,4 @@
-# Node.js Release Working Group
+## Node.js Release Working Group
 
 ## Release schedule
 
